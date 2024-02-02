@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:tns="http://yournamespace.com"
+           targetNamespace="http://yournamespace.com"
+           elementFormDefault="qualified">
+
+    <!-- Define your schema elements here -->
+    <!-- Example:
+    <xs:element name="CreateScheduleRequest" type="tns:CreateScheduleRequest"/>
+    <xs:element name="CreateScheduleResponse" type="tns:CreateScheduleResponse"/>
+    -->
+
+</xs:schema>
